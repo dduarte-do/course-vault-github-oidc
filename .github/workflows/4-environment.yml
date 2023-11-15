@@ -132,7 +132,7 @@ jobs:
               "role_type": "jwt",
               "user_claim": "actor",
               "bound_claims": {
-                "sub": "repo:artis3n/course-vault-github-oidc:environment:Production"
+                "sub": "repo:dduarte-do/course-vault-github-oidc:environment:Production"
               },
               "policies": ["prod-policy"],
               "ttl": "60s"
